@@ -1,0 +1,39 @@
+Versions_Stamps:
+V.0.1 
+# QrStorm has been developed
+V.0.2 
+# Bug Fixed
+V.0.3 
+# Clear Function with the Qr Data
+V.0.5 
+# Textarea Larger
+V.1.1 
+# Major Bugs Fixed.
+# Text Area more Larger for more Data input
+V.1.2.4
+# Minor Bugs for more Perfection
+V.1.3
+# Window menu added for restart functions
+V.1.5
+# Startup screen for giving a Profession Look (inspired from zoom)
+V.1.6
+# Filename function for personalisation of the Qr Code file
+(Info: not have to put the extensions of the file in the filename, we keep '.png' as a default the default extensions, more options for extensions will be updated sooner)
+V.1.7
+# Major Bug Fixed
+V.1.8 to V.2.3
+# All vulnerable Bugs solved and fixed as on date
+V.2.4
+# Professional UI
+V.2.5
+# Clear Button added for filename input box
+V.2.6
+# BIGGEST FEATURE UPDATE !
+# You can now use Qrstorm as a second Txt maker, now you can save your Qr Data as Text file also '.txt'
+# Performance Enhanced
+V.2.7
+# Some Enhancements with the software.
+V.2.8
+# Crash Reporter for handling any errors for application, or any crashed.
+V.3.0
+# Startup Screen for faster performance
