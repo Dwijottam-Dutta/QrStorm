@@ -1,0 +1,7 @@
+~ ~ ~ ~ ~ ~ Welcome to QrStorm Setup Wizard ~ ~ ~ ~ ~ ~
+Application: QrStorm
+Version: 2.8.1
+Interface: Graphical User Interface (GUI)
+Licence: None
+Developer: Dwijottam Dutta
+Compatible with: Windows 8.1 and above
