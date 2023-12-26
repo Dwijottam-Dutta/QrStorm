@@ -29,7 +29,7 @@ def startup_screen():
 def default_bar():
     global w
     a = 'light green'
-    l4 = Label(w, text='Software developed by Dwijottam and Dwijoraj Dutta', fg='white', bg=a)
+    l4 = Label(w, text='Software developed by Dwijottam Dutta', fg='white', bg=a)
     lst4 = ('Calibri (Body)', 9)
     l4.config(font=lst4)
     l4.place(x=10, y=210)
@@ -45,7 +45,7 @@ def default_bar():
 def bar():
     global w
     a = '#E99497'
-    l4 = Label(w, text='Software developed by Dwijottam and Dwijoraj Dutta', fg='white', bg=a)
+    l4 = Label(w, text='Software developed by Dwijottam Dutta', fg='white', bg=a)
     lst4 = ('Calibri (Body)', 9)
     l4.config(font=lst4)
     l4.place(x=10, y=210)
@@ -103,8 +103,7 @@ def startup():
     lst3 = ('System', 15)
     l3.config(font=lst3)
     l3.place(x=30, y=120)
-
-
+    
 # ##############################################################################
 
 
@@ -125,8 +124,6 @@ def aboutmore():
                                                                                                                    y=80)
     Label(aboutus, text='''It is developed by Dwijottam Dutta''', bg='#66DE93', font=('System', 17, 'bold')).place(x=5,
                                                                                                                    y=110)
-    Label(aboutus, text='''and Dwijoraj Dutta.''', bg='#66DE93', font=('System', 17, 'bold')).place(x=5, y=140)
-    aboutus.mainloop()
 
 
 # Function which will open the about window where version, whats new, more about software is there
@@ -170,8 +167,7 @@ def about():
     # Label(aboutus, text='''CalCharm is Simple Hackable Calculator''', bg='#10caeb', font=('System', 17, 'bold')).place(
     #     x=5, y=10)
     # Label(aboutus, text='''developed by Dwijottam Dutta ''', bg='#10caeb', font=('System', 17, 'bold')).place(x=5, y=40)
-    # Label(aboutus, text='''and Dwijoraj Dutta...''', bg='#10caeb', font=('System', 17, 'bold')).place(x=5, y=70)
-    aboutus.mainloop()
+
 
 
 def createIfNotExist(folder):
